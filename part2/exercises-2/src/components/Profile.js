@@ -7,19 +7,15 @@ function Profile() {
       const listItems = oceans.map((ocean) => (
          <>
             <div key={ocean.id} className={`${ocean.fishCheck === 'true' ? "isAFish" : "profile"}`}>
-               <img src={ocean.image} alt={ocean.name} className="img"/>
-               <ol>
-                  <li>
-                     {ocean.fact1}
-                  </li>
-                  <li>
-                     {ocean.fact2}
-                  </li>
-                  <li>
-                     {ocean.fact3}
-                  </li>
-               </ol>
-               <Button />
+               <h1>{ocean.name}</h1>
+                  <img src={ocean.image} alt={ocean.name} className="img"/>
+                  <h2>Fun Facts!</h2>
+                     <ul>
+                        <li>{ocean.fact1}</li>
+                        <li>{ocean.fact2}</li>
+                        <li>{ocean.fact3}</li>
+                     </ul>
+                     <Button />
             </div>
          </>  
       )
@@ -28,3 +24,4 @@ function Profile() {
 };
 
 export default Profile;
+
