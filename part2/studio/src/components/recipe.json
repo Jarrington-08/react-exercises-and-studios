@@ -1,17 +1,20 @@
 [
    {
-     "name": "Stovetop Mac and Cheese",
-     "author": "Stephanie Melchione",
+     "name": "Authentic New Orleans Style Gumbo",
+     "author": "Lauren Allen",
      "description": "This Creamy Stovetop Mac and Cheese is the BEST 30-minute meal for a busy week. Your family will love it every time!",
-     "website": "https://thecozycook.com/stovetop-mac-and-cheese/",
-     "recipeImage": "https://thecozycook.com/wp-content/uploads/2021/10/Stovetop-Mac-and-Cheese-2.jpg",
-     "authorImage": "https://thecozycook.com/wp-content/uploads/2021/11/The-Cozy-Cook.jpg",
+     "website": "https://tastesbetterfromscratch.com/authentic-new-orleans-style-gumbo/",
+     "recipeImage": "https://tastesbetterfromscratch.com/wp-content/uploads/2017/11/Gumbo-11.jpg",
+     "authorImage": "https://tastesbetterfromscratch.com/wp-content/uploads/2023/06/about-me.jpg",
      "ingredients": [
-       "uncooked macaroni",
-       "butter",
        "flour",
-       "heavy cream",
-       "milk"
+       "vegetable oil",
+       "celery",
+       "green bell pepper",
+       "yellow onion",
+       "garlic",
+       "chicken broth",
+       "rotisserie chicken"
      ]
    }
  ]
